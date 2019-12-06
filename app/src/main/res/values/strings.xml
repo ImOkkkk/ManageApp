@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">员工管理系统</string>
+	 <string name="title">员工管理系统</string>
+     <string name="add">添加员工</string>
+    <string name="delete">删除员工</string>
+    <string name="select">查询员工</string>
+    <string name="update">更新员工</string>
+    <string name="quit">退出系统</string>
+</resources>

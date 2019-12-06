@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_password_flag.png",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\drawable-xxhdpi\\ic_password_flag.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\google.png",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\drawable-xxhdpi\\google.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_clear.png",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\drawable-xxhdpi\\ic_clear.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_mobile_flag.png",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\drawable-xxhdpi\\ic_mobile_flag.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\pass_gone.png",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\drawable-xxhdpi\\pass_gone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg_btn_login_selected.xml",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\drawable-xxhdpi\\bg_btn_login_selected.xml"
+    }
+]

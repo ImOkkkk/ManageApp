@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_insert.xml",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\layout\\activity_insert.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set.xml",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_delete.xml",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\layout\\activity_delete.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Manage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "E:\\AndroidStudioProjects\\Manage\\app\\src\\main\\res\\layout\\activity_select.xml"
+    }
+]
